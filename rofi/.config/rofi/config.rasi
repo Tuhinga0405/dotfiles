@@ -1,0 +1,21 @@
+configuration {
+    // Основные параметры
+    modi: "drun,run,window";   // режимы: запуск приложений, команд, переключение окон
+    //font: "DroidSansM Nerd Font Propo 22";      // шрифт
+    show-icons: true;          // показывать иконки
+    icon-theme: "Papirus";     // тема иконок (если установлена)
+
+    // Внешний вид
+    display-drun: "Apps";
+    display-run: "Run";
+    display-window: "Windows";
+
+    // Поведение
+    drun-display-format: "{name}"; // формат отображения приложений
+    matching: "fuzzy";             // тип поиска: fuzzy = нестрогий
+    sorting-method: "fzf";
+    drun-match-fields: "name";
+    case-sensitive: false;         // регистр не учитывается
+}
+@theme "/home/nikita/.config/rofi/spotlight-dark.rasi"
+

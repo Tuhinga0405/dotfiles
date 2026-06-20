@@ -1,0 +1,21 @@
+q
+add ~/Музыка/my_music/
+add Музыка/my_music/
+add Музыка/my_music/(2003) Протест/
+w
+pl-create minecraft-atmosphere-for-study
+colorscheme dracula
+colorscheme default
+colorscheme cyan
+colorscheme amazon
+add
+live-filter 
+colorscheme spotify
+colorscheme solarized-dark
+colorscheme zenburn
+colorscheme night
+colorscheme gruvbox-alt
+colorscheme jellybeans
+colorscheme gruvbox
+colorscheme gray-88
+pl-create study
