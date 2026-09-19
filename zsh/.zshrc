@@ -42,6 +42,7 @@ alias cl='clear'
 alias nts='cd /home/nikita/Документы/notes'
 alias al-b='alias | bat'
 alias emcs='emacs -nw'
+alias desc='cd /home/nikita/.local/share/applications'
 
 
 # Функции
